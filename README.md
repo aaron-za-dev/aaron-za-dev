@@ -3,7 +3,7 @@
 ### Welcome to my github profile 🥳
 
 ### About me!  
-I'm a junior software developer, i've been working with technology since 2010 (as technical support) and now i'm searching opportunities to work on proyects as a software developer. In 2019 i worked on little proyects with technologies like laravel, html, css and jquery (of course also mysql) and in others with java and javafx.  
+I'm a junior software developer, i've been working with technology since 2010 (as technical support) and now i'm searching opportunities to work as a software developer. In 2019 i worked on little projects with technologies like laravel, html, css and jquery (of course also mysql) and in others with java and javafx.  
   
 
 - 🌎 I'm from S.L.P Mexico. 🌮🇲🇽
