@@ -66,10 +66,18 @@ I'm a junior software developer, i've been working with technology since 2010 (a
 
 ## You can find me here 
 <div align="center">
-    <a href="mailto:aaronzadev@gmail.com" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" /></a>
-    <a href="https://www.linkedin.com/in/aaron-za-dev" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="50" /></a>
-    <a href="https://es.stackoverflow.com/users/27456" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" height="50" /></a>
-    <a href="https://www.twitter.com/aaronzamx" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="50" /></a>
+    <a href="mailto:aaronzadev@gmail.com" target="_blank" rel="noreferrer">
+    <img style="margin: 15px" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" />
+    </a>
+    <a href="https://www.linkedin.com/in/aaron-za-dev" target="_blank" rel="noreferrer">
+    <img style="margin: 15px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="50" />
+    </a>
+    <a href="https://es.stackoverflow.com/users/27456" target="_blank" rel="noreferrer">
+    <img style="margin: 15px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" height="50" />
+    </a>
+    <a href="https://www.twitter.com/aaronzamx" target="_blank" rel="noreferrer">
+    <img style="margin: 15px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="50" />
+    </a>
 </div>  
 
 <br/>
