@@ -90,7 +90,3 @@ I'm a junior software developer, i've been working with technology since 2010 (a
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=aaronzadev&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aaron-za-dev&&style=for-the-badge&color=brightgreen" align="center" />
-</div>  
