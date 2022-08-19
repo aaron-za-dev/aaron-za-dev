@@ -83,7 +83,7 @@ I'm a junior software developer, i've been working with technology since 2010 (a
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-za-dev&layout=compact&theme=gotham" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-za-dev&hide_border=true&layout=compact&theme=ayu-mirage" align="center" style="width: 100%" /></div>
 <br/>
 
 ## Listening now 🎧  
